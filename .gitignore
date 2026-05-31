@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# llama.cpp repository/binaries
+llama.cpp/
+
+# Python cache & compiles
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# User databases and logs
+tasks.json
+*.log
+
+# OS files
+.DS_Store
+Thum.db
